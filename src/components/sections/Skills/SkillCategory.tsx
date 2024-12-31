@@ -1,5 +1,5 @@
 import React from 'react';
-import { SkillCard } from './Skillcard';
+import { SkillCard } from './SkillCard';
 import type { Skill } from './types';
 
 interface SkillCategoryProps {
