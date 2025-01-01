@@ -7,8 +7,8 @@ export const HeroSection: React.FC = () => {
       <div className="max-w-5xl mx-auto px-6 py-32">
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div>
-            <h1 className="text-6xl font-bold mb-6 bg-gradient-to-r from-white to-zinc-500 text-transparent bg-clip-text">
-               Agrim:Creative Developer & Designer
+            <h1 className="text-6xl font-bold mb-6 bg-gradient-to-r from-white to-zinc-500 text-transparent bg-clip-text pb-4">
+               Agrim:Creative Developer & Designer 
             </h1>
             <p className="text-xl text-zinc-400 mb-8">
               I craft digital experiences that combine beautiful design with cutting-edge technology. 
