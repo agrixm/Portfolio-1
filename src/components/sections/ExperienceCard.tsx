@@ -14,7 +14,8 @@ interface ExperienceCardProps {
 const colorVariants = {
   purple: 'from-purple-500/20 to-purple-500/5',
   blue: 'from-blue-500/20 to-blue-500/5',
-  emerald: 'from-emerald-500/20 to-emerald-500/5'
+  emerald: 'from-emerald-500/20 to-emerald-500/5',
+  red : 'from-red-500/20 to-red-500/5'
 };
 
 export const ExperienceCard: React.FC<ExperienceCardProps> = ({

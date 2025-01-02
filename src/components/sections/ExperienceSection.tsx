@@ -37,6 +37,17 @@ const experiences = [
     ],
     skills: ["Figma", "Framer", "Canva"],
     color: "emerald"
+  },
+  {
+    title: "Graphic Designer",
+    company: "Branding Avengers",
+    period: "Oct 2024 - Dec 2024",
+    description: [
+      "Created Logos, Posters, Banners for the Events Organized by the Client",
+      
+    ],
+    skills: ["Canva", "VN Editor"],
+    color: "red"
   }
 ];
 

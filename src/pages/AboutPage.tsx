@@ -12,8 +12,7 @@ export const AboutPage: React.FC = () => {
         <div className="space-y-20">
           <section>
             <p className="text-xl text-zinc-400 mb-8">
-              I'm a passionate developer and designer with over 5 years of experience in creating 
-              digital experiences that make a difference.
+            I'm a passionate developer and designer on a journey of continuous learning, actively exploring new technologies and gaining hands-on experience in creating impactful digital solutions.
             </p>
           </section>
           
