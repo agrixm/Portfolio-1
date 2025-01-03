@@ -20,7 +20,7 @@ export const HeroSection: React.FC = () => {
             <div className="aspect-square rounded-2xl overflow-hidden">
               <img 
                 src="https://framerusercontent.com/images/XAfLonM9BeG7VDCe5xhVp1GBANE.jpg?scale-down-to=1024" 
-                alt="Developer Portrait" 
+                alt="Developer Portrai" 
                 className="w-full h-full object-cover"
               />
             </div>
