@@ -12,7 +12,7 @@ export const DesignGallery: React.FC = () => {
           <p className="text-zinc-400 mt-2">A collection of my graphic design work</p>
         </div>
         <a 
-          href="https://drive.google.com/drive/folders/your-folder-id"
+          href="https://drive.google.com/drive/folders/12Ze5TKZQkqQzLjLnk82oDBkvDZ7QOwRx?usp=drive_link"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-2 px-4 py-2 rounded-lg bg-zinc-800 text-zinc-200 hover:bg-zinc-700 transition-colors"
