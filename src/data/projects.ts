@@ -3,7 +3,7 @@ export const projects = [
     id: 1,
     title: "My Portfolio UI/UX",
     description: "My Portfolio Designed in Framer ",
-    image: "https://images.unsplash.com/photo-1557821552-17105176677c?auto=format&fit=crop&q=80",
+    image: "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cG9ydGZvbGlvfGVufDB8fDB8fHww",
     link: "https://agrim.framer.wiki/",
     tags: ["Framer"]
   },
@@ -15,6 +15,7 @@ export const projects = [
     link: "https://edudoc.framer.wiki/",
     tags: ["Framer"]
   },
+  
   {
     id: 3,
     title: "Instagram Profile Picture Downloader",
