@@ -1,20 +1,30 @@
 export const projects = [
   {
-    id: 1,
-    title: "My Portfolio UI/UX",
-    description: "My Portfolio Designed in Framer ",
-    image: "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cG9ydGZvbGlvfGVufDB8fDB8fHww",
-    link: "https://agrim.framer.wiki/",
-    tags: ["Framer"]
+    id: 0,
+    title: "Tech Fest Website",
+    description: "A Tech Fest Website Designed using React,Spline and Framer",
+    image: "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHRlY2h8ZW58MHx8MHx8fDA%3D",
+    link: "https://techfest-verge.vercel.app/",
+    tags: ["React", "Spline", "Framer"]
   },
+  
   {
-    id: 2,
+    id: 1,
     title: "Exclutch UI/UX",
     description: "A Notes Handling App Designed in Framer for University Students",
     image: "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&q=80",
     link: "https://edudoc.framer.wiki/",
     tags: ["Framer"]
   },
+  {
+    id: 2,
+    title: "My Portfolio UI/UX",
+    description: "My Portfolio Designed in Framer ",
+    image: "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cG9ydGZvbGlvfGVufDB8fDB8fHww",
+    link: "https://agrim.framer.wiki/",
+    tags: ["Framer"]
+  },
+  
   
   {
     id: 3,
